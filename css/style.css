@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: rgb(39, 39, 51);
+    display: flex;
+    height: 80px;
+}
+
+section{
+    background-color: white;
+    display:flex;
+}
+aside{
+    background-color: black;
+    width: 400px;
+    height: 180vh;
+    
+}
+
+footer{
+    background-color: black;
+    height: 100px;
+}
+
+.blog {
+    color: white;
+
+
+}
+h1 {
+    font-size: 3em
+}
